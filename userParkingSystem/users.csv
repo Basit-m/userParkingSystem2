@@ -1,0 +1,11 @@
+name,email,password,role,validated
+Updated Student,updatedstudent@example.com,rd123,Student,false
+Updated Student,updatedstudent@example.com,rd123,Student,false
+New Student,newstudent@example.com,passwo123,Student,false
+New Student,nstudent@example.com,passwo123,Student,false
+John Doe,john@example.com,Password123!,Student,false
+John Smith,john.smith@example.com,StrongPass1!,Student,false
+Mario,mario@gmail.com,Kottai-12,Student,false
+methu,methu@gmail.com,Moung-12,Visitor,true
+methu,mehu@gmail.com,Mightmouse_3,Faculty,false
+meka,meka,Mass-12e,Faculty,false
